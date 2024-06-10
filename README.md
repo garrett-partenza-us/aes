@@ -2,6 +2,6 @@
 
 *Okay maybe I used Numpy too*
 
-This repository contains an implementation of the Advanced Encryption Standard in Python. The goal of this project was to (1) increase my understanding of the most popular symmetric encryption algorithm through implementing it, and (2) to refresh my fluency in Numpy due to a recent Javascript hiatis. Also it was raining in Fort Lauderdale this weekend so I could not spearfish, so if I can't catch fish I may as well catch exceptions.
+This repository hosts an implementation of the Advanced Encryption Standard (AES) in Python. The project serves two primary purposes: firstly, to deepen my comprehension of this widely used symmetric encryption algorithm by developing it from scratch, and secondly, to reacquaint myself with Numpy after a recent JavaScript hiatus. Additionally, it rained in Fort Lauderdale over the weekend, and I figured if I cant catch fish I might as well catch some exceptions.
 
 
